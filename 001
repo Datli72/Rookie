@@ -119,3 +119,7 @@ pycache/
 packages/protocol/config.js
 .vercel
 +
+# VSCode
+.vscode/launch.json
+packages/protocol/config.js
+.vercel
